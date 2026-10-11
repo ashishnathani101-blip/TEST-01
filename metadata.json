@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Diagnosis",
+  "description": "Interactive clinical case diagnosis challenge with progressive horizontal clue tabs, scoring, and diagnostic evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
